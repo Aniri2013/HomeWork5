@@ -15,4 +15,4 @@ else:
     for i in lst:
         if i< nomer:
             cnt += 1
-print(nomer)
+print(cnt)
